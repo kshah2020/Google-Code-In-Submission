@@ -19,9 +19,6 @@
 		margin-right: auto;
 	}
 	
-	.title2{
-		 color:#8aff9d;
-	}
 	
 </style>
  </head> 
@@ -33,8 +30,6 @@
 <marquee> <img class="image" src="https://clipartion.com/wp-content/uploads/2016/05/earth-clip-art-free-clipart-images.png" style="width: 100px;height:100px"> </marquee>
 
 <h4>  Welcome to the traveling guide! Press the button below to visit the main webpage! </h4> 
-
-<h3 class="title2" > Pick a Continent: </h3>  
 
 <font  color= "#8aff9d">
 	<h4> <a href="Traveling.html"> Home Page </a> </h4>
