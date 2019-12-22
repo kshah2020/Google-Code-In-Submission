@@ -30,7 +30,7 @@
  
  <h1 class = "title">  Traveling Around the World!  </h1> 
  <h4> <font color="#b554ff"> A Guide to Visiting the Best Places </font> </h4> 
-<marquee> <img class="image" src="https://clipartion.com/wp-content/uploads/2016/05/exclusive-this-planet-earth-clip-art.png" style="width: 100px;height:100px"> </marquee>
+<marquee> <img class="image" src="https://clipartion.com/wp-content/uploads/2016/05/earth-clip-art-free-clipart-images.png" style="width: 100px;height:100px"> </marquee>
 
 <h4>  Welcome to the traveling guide! Pick a country below to learn more information! </h4> 
 
