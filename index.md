@@ -44,7 +44,7 @@
 <h3 class="title2" > Pick a Continent: </h3>  
 
 <ul> <font  color= "#8aff9d">
-<li> <a href="North America.html"> North America </a> </li>
+<li> <a href="NorthAmerica.github.io"> North America </a> </li>
 <li> <a href="South America.html"> South America </a> </li>
 <li> <a href="Europe.html"> Europe </a> </li>
 <li> <a href="Africa.html" > Africa </a> </li>
