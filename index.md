@@ -39,7 +39,7 @@
  
  <h1 class = "title">  Traveling Around the World!  </h1> 
  <h4> <font color="#b554ff"> A Guide to Visiting the Best Places </font> </h4> 
-<marquee> <img class="image" src="https://clipartion.com/wp-content/uploads/2016/05/exclusive-this-planet-earth-clip-art.png" style="width: 200px;height:200px"> </marquee>
+<marquee> <img class="image" src="https://clipartion.com/wp-content/uploads/2016/05/exclusive-this-planet-earth-clip-art.png" style="width: 100px;height:100px"> </marquee>
 
 <h3 class="title2" > Pick a Continent: </h3>  
 
