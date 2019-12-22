@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="style.css">
 <link rel="robots.txt" href="robots.txt">
 
-<link rel='icon' href='favicon.ico'>
+<link rel='icon' href='favicon.ico' type='image/x-icon'/ >
 
 <meta name="robots" content="noindex, nofollow">
 
