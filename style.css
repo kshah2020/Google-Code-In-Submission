@@ -1,0 +1,21 @@
+@charset "UTF-8"; 
+
+body{
+	background-color: #fff3c9;
+}
+
+h1, h4{
+	color: #32aba3;
+	text-align: center;
+}
+
+table, th, td {
+  border: 1px solid #28b56c;
+  border-collapse: collapse;
+  color: #28b56c;
+}
+
+th, td{
+  text-align: center; 
+}
+
