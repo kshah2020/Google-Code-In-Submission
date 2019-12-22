@@ -1,5 +1,3 @@
-<!doctype html>
- 
  <html> 
  <head>
   
@@ -12,7 +10,7 @@
 
 <meta name="robots" content="noindex, nofollow">
 
-<link rel='icon' href='favicon.ico' type='image/x-icon'/ >
+<!-- <link rel='icon' href='favicon.ico' type='image/x-icon'/ > > 
 
 <style> 
 	
@@ -40,6 +38,8 @@
  <h1 class = "title">  Traveling Around the World!  </h1> 
  <h4> <font color="#b554ff"> A Guide to Visiting the Best Places </font> </h4> 
 <marquee> <img class="image" src="https://clipartion.com/wp-content/uploads/2016/05/exclusive-this-planet-earth-clip-art.png" style="width: 100px;height:100px"> </marquee>
+
+Welcome to the traveling guide! Pick a country below to learn more information! 
 
 <h3 class="title2" > Pick a Continent: </h3>  
 
