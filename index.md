@@ -32,19 +32,14 @@
  <h4> <font color="#b554ff"> A Guide to Visiting the Best Places </font> </h4> 
 <marquee> <img class="image" src="https://clipartion.com/wp-content/uploads/2016/05/earth-clip-art-free-clipart-images.png" style="width: 100px;height:100px"> </marquee>
 
-<h4>  Welcome to the traveling guide! Pick a country below to learn more information! </h4> 
+<h4>  Welcome to the traveling guide! Press the button below to visit the main webpage! </h4> 
 
 <h3 class="title2" > Pick a Continent: </h3>  
 
-<ul> <font  color= "#8aff9d">
-<li> <a href="North America.html"> North America </a> </li>
-<li> <a href="South America.html"> South America </a> </li>
-<li> <a href="Europe.html"> Europe </a> </li>
-<li> <a href="Africa.html" > Africa </a> </li>
-<li> <a href="Asia.html" > Asia </a> </li>
-<li> <a href="Australia.html"> Australia </a> </li> 
+<font  color= "#8aff9d">
+	<h4> <a href="Traveling.html"> Home Page </a> </h4>
 </font>
-</ul>
+
 
 
  
