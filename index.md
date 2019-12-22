@@ -37,7 +37,7 @@
  <h4> <font color="#b554ff"> A Guide to Visiting the Best Places </font> </h4> 
 <marquee> <img class="image" src="https://clipartion.com/wp-content/uploads/2016/05/exclusive-this-planet-earth-clip-art.png" style="width: 100px;height:100px"> </marquee>
 
-Welcome to the traveling guide! Pick a country below to learn more information! 
+<h4> <font color="font color="#b554ff"> Welcome to the traveling guide! Pick a country below to learn more information! </font> </h4> 
 
 <h3 class="title2" > Pick a Continent: </h3>  
 
