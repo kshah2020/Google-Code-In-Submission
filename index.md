@@ -19,11 +19,6 @@
 		margin-right: auto;
 	}
 	
-	h1, h4{
-		text-align:center; 
-		color: #32aba3;
-	}
-	
 	.title2{
 		 color:#8aff9d;
 	}
