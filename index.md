@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+<!doctype html>
+ 
+ <html> 
+ <head>
+  
+<meta name="description" content="World Traveling">
+<meta name="keywords" content="HTML/CSS, Google Code In, Traveling">
+<meta name="author" content="Krushi Shah">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style.css">
+<link rel="robots.txt" href="robots.txt">
 
-You can use the [editor on GitHub](https://github.com/kshah2020/kshah2020.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<meta name="robots" content="noindex, nofollow">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<link rel='icon' href='favicon.ico' type='image/x-icon'/ >
 
-### Markdown
+<style> 
+	
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	img{
+		display: block;
+  		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	h1, h4{
+		text-align:center; 
+		color: #32aba3;
+	}
+	
+	.title2{
+		 color:#8aff9d;
+	}
+	
+</style>
+ </head> 
+ 
+ <body class="body"> 
+ 
+ <h1 class = "title">  Traveling Around the World!  </h1> 
+ <h4> <font color="#b554ff"> A Guide to Visiting the Best Places </font> </h4> 
+<marquee> <img class="image" src="https://clipartion.com/wp-content/uploads/2016/05/exclusive-this-planet-earth-clip-art.png" style="width: 200px;height:200px"> </marquee>
 
-```markdown
-Syntax highlighted code block
+<h3 class="title2" > Pick a Continent: </h3>  
 
-# Header 1
-## Header 2
-### Header 3
+<ul> <font  color= "#8aff9d">
+<li> <a href="North America.html"> North America </a> </li>
+<li> <a href="South America.html"> South America </a> </li>
+<li> <a href="Europe.html"> Europe </a> </li>
+<li> <a href="Africa.html" > Africa </a> </li>
+<li> <a href="Asia.html" > Asia </a> </li>
+<li> <a href="Australia.html"> Australia </a> </li> 
+</font>
+</ul>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kshah2020/kshah2020.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
+ 
+ </body> 
+ 
+ </html> 
