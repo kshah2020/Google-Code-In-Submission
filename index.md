@@ -8,6 +8,8 @@
 <link rel="stylesheet" href="style.css">
 <link rel="robots.txt" href="robots.txt">
 
+<link rel='icon' href='favicon.ico'>
+
 <meta name="robots" content="noindex, nofollow">
 
 <style> 
