@@ -26,6 +26,6 @@ li, h3, ul{
 	
 } 
 
-#list {
+li, ul {
   text-align: center;
 }
