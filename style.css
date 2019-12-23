@@ -19,7 +19,7 @@ th, td{
   text-align: center; 
 }
 
-ul{ 
+li, h3, ul{ 
  text-align: center; 
  font-size: xx-large; 
  color: #32aba3;
